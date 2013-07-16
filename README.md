@@ -1,4 +1,4 @@
-CipherWiki modification (c) Felipe Aragon, 2007
+CipherWiki modification (c) Felipe Daragon, 2007
 felipe _at_ 206labs _dot_ com
 Greetings to: Dem and Alec Storm
 
